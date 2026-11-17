@@ -6,7 +6,7 @@
 
 This project estimates average credit exposure across 11,029 confirmed fraudulent bank account applications from the NeurIPS Bank Account Fraud (BAF) dataset over an 8-month observation window. High-velocity automated attacks (top 25% of 6-hour application velocity) show a mean proposed credit limit of **$773.32** (95% CI: $750.02 to $796.98), compared to standard human-behavioral fraud at **$854.13** (95% CI: $840.32 to $868.32). Because the two intervals do not overlap, the data show a clear difference in fraud strategy: automated attacks rely on high volume at mid-tier credit limits, whereas human-behavioral fraud targets larger individual credit lines.
 
-[View Executive Summary](visuals/Executive20%Summary)
+[View Executive Summary](visuals/executive-summary.jpg)
 
 ## Background & Research Questions
 
