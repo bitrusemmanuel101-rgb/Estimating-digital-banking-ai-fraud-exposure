@@ -27,7 +27,7 @@ In 2026, financial institutions face rising risks from synthetic identities and 
 | Fraud Cohort | Fraud Count | Mean Exposure ($) | 95% Confidence Interval ($) |
 | :--- | :--- | :--- | :--- |
 | **High-Velocity (Automated Proxy)** | 2,757 | $773.32 | $750.02 to $796.98 |
-| **Standard (Human-Behavioral)** | 8,272 | $854.13 | $x to $x |
+| **Standard (Human-Behavioral)** | 8,272 | $854.13 | $840.32 to $868.32 |
 
 - **Non-Overlapping Risk Profiles:** The 95% confidence intervals are separated by more than $40, confirming that standard fraud carries higher per-account credit exposure than high-velocity automated fraud.
 - **Volume vs. Limit Size:** Automated scripts trade lower individual credit limits (~$773) for rapid scale, while manual fraudsters target higher individual limits (~$854).
